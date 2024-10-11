@@ -91,9 +91,8 @@ nav ul li a:hover {
 }
 
 .home-section .overlay {
-    background-color: #f4f4f4;
+    background: #004d00;
     padding: 20px;
-    border-radius: 23px;
     text-align: center;
     color: #fff;
 }
